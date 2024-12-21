@@ -15,8 +15,15 @@ struct Node *createNode(int new_data) {
 }
 
 /*
-The book challenges us to
+The book challenges us to create a doubly linked list of heap-allocated strings
+Write functions to insert, find, and delete items from it. Test them.
+
+The textbook also notes that you should be comfortable with C, and if not, to
+pick up an introductory book on C and chew through it. I plan to do that with
+"C Programming: A Modern Approach 2nd ed" and then come back here.
 */
+
+
 
 int main() {
 
